@@ -2,7 +2,7 @@
 ### [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=016EEA&size=24&width=500&lines=+Software+Engineer;Full-Stack+Web+Developer!;IBM+Certified+Cyber+Security+Analyst;Certified+Digital+Ad+Expert)](https://git.io/typing-svg)
 My areas of interest are Cloud Security Engineering,Web Application development, DevOps, Software Engineering, Social Media Marketing and Artificial Intelligence<br>
 
-Currently I'm the founder of [Raymeletia Digital](https://clickviral.pythonanywhere.com "ClickViral"): a software Company and Digital Agency in Nigeria<br>
+Currently I'm the founder of [Raymeletia Digital](https://raymeletia.digital "RaymeletiaDigital"): a software Company and Digital Agency in Nigeria<br>
 
 ---
 ### My Stack
